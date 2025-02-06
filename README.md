@@ -73,7 +73,7 @@ A passionate Fullstack developer from India 🇮🇳
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudit26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muditxdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---

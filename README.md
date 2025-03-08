@@ -218,9 +218,9 @@ A passionate Fullstack developer from India 🇮🇳 | [Visit my portfolio](http
 ## 🌐 Featured Projects by muditxdev:
 Check out my featured projects on my [portfolio website](https://portfolio-mudit.vercel.app/) or explore my repositories below:
 
-- [Full Stack E-commerce App](https://github.com/muditxdev/ecommerce-fullstack)
-- [Next.js Blog Application](https://github.com/muditxdev/next-blog)
-- [React Performance Optimization Examples](https://github.com/muditxdev/react-optimization)
+- [Next.js Starter Template](https://github.com/muditxdev/nextjs-starter-template)
+- [Next.js Bun Setup](https://github.com/muditxdev/nextjs-bun-setup)
+- [Javascript Problems](https://github.com/muditxdev/javascript-problems)
 
 ---
 

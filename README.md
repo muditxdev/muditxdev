@@ -1,5 +1,5 @@
-# Hi 👋, I'm Mudit Jain  
-A passionate Fullstack developer from India 🇮🇳  
+# Hi 👋, I'm Mudit Jain (muditxdev)
+A passionate Fullstack developer from India 🇮🇳 | [Visit my portfolio](https://portfolio-mudit.vercel.app/)
 
 🌱 I'm currently learning **TypeScript and AWS**  
 👯 I love collaborating on **Open Source & Exciting Projects**  
@@ -11,39 +11,45 @@ A passionate Fullstack developer from India 🇮🇳
 
 ---
 
-## 📌 Connect with me:  
+## 📌 Connect with me (muditxdev):  
 <table>
   <tr>
     <td align="center" width="96">
       <a href="https://x.com/MUDITJA27928431" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" height="48" alt="Twitter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" height="48" alt="Mudit Jain (muditxdev) on Twitter" />
       </a>
       <br>Twitter
     </td>
     <td align="center" width="96">
       <a href="https://linkedin.com/in/muditxdev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="Mudit Jain (muditxdev) on LinkedIn" />
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="96">
       <a href="https://instagram.com/mudit9351" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" height="48" alt="Instagram" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" height="48" alt="Mudit Jain (muditxdev) on Instagram" />
       </a>
       <br>Instagram
     </td>
     <td align="center" width="96">
       <a href="https://github.com/muditxdev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Mudit Jain (muditxdev) on GitHub" />
       </a>
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://portfolio-mudit.vercel.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" width="48" height="48" alt="Mudit Jain (muditxdev) Portfolio" />
+      </a>
+      <br>Portfolio
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Skills:  
+## 🚀 Skills by Mudit Jain (muditxdev):  
 
 ### 🔹 Front-end Development  
 
@@ -190,9 +196,9 @@ A passionate Fullstack developer from India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats for muditxdev:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muditxdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muditxdev&show_icons=true&theme=tokyonight" alt="GitHub Stats for Mudit Jain (muditxdev)" />
 </p>
 
 ---
@@ -206,3 +212,16 @@ A passionate Fullstack developer from India 🇮🇳
 ## 💼 Achievements:  
 - Earned a **LinkedIn Skill Assessment Badge** in **Front-End Development**  
 - Successfully completed multiple projects focused on **scalability and performance optimization**
+
+---
+
+## 🌐 Featured Projects by muditxdev:
+Check out my featured projects on my [portfolio website](https://portfolio-mudit.vercel.app/) or explore my repositories below:
+
+- [Full Stack E-commerce App](https://github.com/muditxdev/ecommerce-fullstack)
+- [Next.js Blog Application](https://github.com/muditxdev/next-blog)
+- [React Performance Optimization Examples](https://github.com/muditxdev/react-optimization)
+
+---
+
+Thanks for visiting my GitHub profile (muditxdev)! If you found my projects interesting, please consider giving them a ⭐️ and connect with me on [LinkedIn](https://linkedin.com/in/muditxdev) or check out my work at [portfolio-mudit.vercel.app](https://portfolio-mudit.vercel.app/).
